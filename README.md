@@ -1,7 +1,7 @@
-# complaint-management-system
+# Complaint Management System
 This is a complaint Management System to be developed in PHP
 
-FEATURES<br/>
+# FEATURES<br/>
 1. Admin Dashboard<br/>
 2. Intuitive UI<br/>
 3. Advanced Analytics<br/>
